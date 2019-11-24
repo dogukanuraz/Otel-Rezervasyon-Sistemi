@@ -1,0 +1,44 @@
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.exe.config
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.exe
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.pdb
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Giris.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Properties.Resources.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel Rezervasyon.csproj.GenerateResource.Cache
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel Rezervasyon.exe
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel Rezervasyon.pdb
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.UCGirisYap.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.UCKayitOl.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Dashboard.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucYME.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucOdalar.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucMusteriler.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\tr-TR\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Dashboard.tr-TR.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\tr-TR\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\tk\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\vun\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucHakkinda.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Dashboard.tk.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.Dashboard.vun.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\tk\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\vun\Otel Rezervasyon.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucYG.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.YoneticiAnaSayfa.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel_Rezervasyon.ucHesap.resources
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\Otel Rezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\RdlCompile.cache
+C:\Users\hdu19\Documents\Visual Studio 2015\Projects\Otel Rezervasyon\Otel Rezervasyon\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,5 @@
+Projenin Bilgisayarýnýzda çalýþmasý için SQL server kurulu olmalýdýr.
+\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.exe ile programý çalýþtýrabilirsiniz.
+Admin giriþi için kullanýcý adý: admin þifre: admin
+Yeni hesap oluþturarak Resepsiyon bölümünü kullanabilirsiniz.
+Ticari Kullaným için iletiþime geçiniz dogukanuraz@outlook.com

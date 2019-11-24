@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61C7925A-C34C-4C87-96EB-AFFBCA600C79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Otel_Rezervasyon</RootNamespace>
+    <AssemblyName>Otel Rezervasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Bunifu DLL\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OtelRezervasyon2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelRezervasyon2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UCGirisYap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCGirisYap.Designer.cs">
+      <DependentUpon>UCGirisYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHakkinda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHakkinda.Designer.cs">
+      <DependentUpon>ucHakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHesap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHesap.Designer.cs">
+      <DependentUpon>ucHesap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCKayitOl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCKayitOl.Designer.cs">
+      <DependentUpon>UCKayitOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMusteriler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMusteriler.Designer.cs">
+      <DependentUpon>ucMusteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucOdalar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucOdalar.Designer.cs">
+      <DependentUpon>ucOdalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucYG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucYG.Designer.cs">
+      <DependentUpon>ucYG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucYME.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucYME.Designer.cs">
+      <DependentUpon>ucYME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfa.Designer.cs">
+      <DependentUpon>YoneticiAnaSayfa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.tk.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.tr-TR.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.vun.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="UCGirisYap.resx">
+      <DependentUpon>UCGirisYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHakkinda.resx">
+      <DependentUpon>ucHakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHesap.resx">
+      <DependentUpon>ucHesap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCKayitOl.resx">
+      <DependentUpon>UCKayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMusteriler.resx">
+      <DependentUpon>ucMusteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucOdalar.resx">
+      <DependentUpon>ucOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucYG.resx">
+      <DependentUpon>ucYG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucYME.resx">
+      <DependentUpon>ucYME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiAnaSayfa.resx">
+      <DependentUpon>YoneticiAnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="OtelRezervasyon2DataSet.xsc">
+      <DependentUpon>OtelRezervasyon2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OtelRezervasyon2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OtelRezervasyon2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OtelRezervasyon2DataSet.xss">
+      <DependentUpon>OtelRezervasyon2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-facebook-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-instagram-500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-linkedin-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-whatsapp-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-instagram-5001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-post-100.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
