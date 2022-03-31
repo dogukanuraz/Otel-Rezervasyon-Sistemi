@@ -1,5 +1,4 @@
-Projenin Bilgisayarınızda çalışması için SQL server kurulu olmalıdır.
-\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.exe ile programı çalıştırabilirsiniz.
-Admin girişi için kullanıcı adı: admin şifre: admin
-Yeni hesap oluşturarak Resepsiyon bölümünü kullanabilirsiniz.
-Ticari Kullanım için iletişime geçiniz dogukanuraz@outlook.com
+Projenin BilgisayarÄ±nÄ±zda Ã§alÄ±ÅŸmasÄ± iÃ§in SQL server kurulu olmalÄ±dÄ±r.
+\Otel Rezervasyon\Otel Rezervasyon\bin\Debug\Otel Rezervasyon.exe ile programÄ± Ã§alÄ±ÅŸtÄ±rabilirsiniz.
+Admin giriÅŸi iÃ§in kullanÄ±cÄ± adÄ±: admin ÅŸifre: admin
+Yeni hesap oluÅŸturarak Resepsiyon bÃ¶lÃ¼mÃ¼nÃ¼ kullanabilirsiniz.
